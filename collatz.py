@@ -29,5 +29,10 @@ def plot_sequence(sequence):
     return None
 
 
+def test_for_github():
+    # just a change to test github
+    pass
+
+
 if __name__ == "__main__":
     main()
